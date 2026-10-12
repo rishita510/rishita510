@@ -8,13 +8,7 @@ B.Tech Chemical Engineering student at **IIT Jodhpur**, building AI systems that
 - Currently building and evaluating a **YouTube RAG platform** and learning to deploy my projects on the cloud
 - Reach me: [LinkedIn](https://www.linkedin.com/in/rishita-kumari-8a8b32313/) · rishitskumari@gmail.com
 
-## Featured Projects
-| Project | What it does | Tech |
-|---|---|---|
-| [YouTube RAG Platform](REPO_LINK) | Ask questions about any YouTube video, with saved chat threads and measured retrieval quality | Python, Streamlit, Supabase, pgvector, OpenAI, DeepEval |
-| [AI Blog Writing Agent](REPO_LINK) | Router agent decides when research is needed, then writes sections in parallel | LangGraph, LangChain, Pydantic, Tavily, Streamlit |
-| [NeuroDex](REPO_LINK) | Real-time EMG gesture recognition for prosthetic control | Python, PyTorch, scikit-learn, BLE |
-| [EMG-to-Finger-Angle Regression](REPO_LINK) | CNN-LSTM continuous motion estimation | PyTorch |
+
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
