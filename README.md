@@ -22,6 +22,8 @@ B.Tech Chemical Engineering student at **IIT Jodhpur**, building AI systems that
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ## My GitHub Stats
 ![Rishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishita510&show_icons=true&hide_border=true)
