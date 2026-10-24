@@ -5,7 +5,7 @@ B.Tech Chemical Engineering student at **IIT Jodhpur**, building AI systems that
 ## About Me
 - Research intern at **BIRD Robotics Lab**, IIT Jodhpur: EMG-based gesture recognition driving a 3D-printed bionic hand
 - Open-source contributor in **GirlScript Summer of Code 2026**
-- Currently building and evaluating a **YouTube RAG platform** and learning to deploy my projects on the cloud
+- Currently building and evaluating a ** RAG platform** and learning to deploy my projects on the cloud
 - Reach me: [LinkedIn](https://www.linkedin.com/in/rishita-kumari-8a8b32313/) · rishitskumari@gmail.com
 
 
